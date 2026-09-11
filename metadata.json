@@ -1,0 +1,6 @@
+{
+  "name": "APK Extractor Pro",
+  "description": "Fast, secure APK extractor with local file manager, cloud sync, biometric lock, offline mode, and performance analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

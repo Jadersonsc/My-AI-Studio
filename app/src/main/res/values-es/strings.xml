@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">APK Extractor Pro</string>
+    <string name="tab_apps">Aplicaciones</string>
+    <string name="tab_files">Archivos APK</string>
+    <string name="tab_history">Historial</string>
+    <string name="tab_analytics">Rendimiento</string>
+    <string name="tab_settings">Ajustes</string>
+
+    <string name="search_apps_hint">Buscar apps por nombre o paquete…</string>
+    <string name="filter_all">Todos</string>
+    <string name="filter_user">Apps de Usuario</string>
+    <string name="filter_system">Apps de Sistema</string>
+    
+    <string name="action_extract">Extraer APK</string>
+    <string name="action_share">Compartir APK</string>
+    <string name="action_cloud_sync">Sincronizar Nube</string>
+    <string name="action_delete">Eliminar</string>
+    <string name="action_install">Instalar APK</string>
+
+    <string name="extracting">Extrayendo…</string>
+    <string name="extraction_success">¡APK extraído con éxito!</string>
+    <string name="extraction_failed">Error al extraer APK</string>
+    
+    <string name="offline_mode_title">Modo Offline Activo</string>
+    <string name="offline_mode_desc">Todas las extracciones, gestión y compartir funcionan 100% offline.</string>
+    
+    <string name="biometric_lock_title">Seguridad Biométrica</string>
+    <string name="biometric_prompt_reason">Autentique para acceder a APK Extractor Pro</string>
+    <string name="biometric_unlocked">Autenticado</string>
+</resources>
